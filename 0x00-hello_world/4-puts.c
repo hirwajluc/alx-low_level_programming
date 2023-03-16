@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * HIRWA Jean Luc
+ * main - Entry point
  *
  * Description: A C program that prints with put function
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (Sucess)
  */
 
 int main(void)
