@@ -1,18 +1,21 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * author: HIRWA Jean Luc
- * Return: Always 0 (Success)
+ * main - prints the alphabet in lowercase,
+ * followed by a new line, except q and e
+ * Return: Aways 0 (Sucess)
  */
 int main(void)
 {
-	char a;
+	char ch = 'a';
 
-	for (a = 'a' ; a <= 'z' ;a++)
+	while (ch <= 'z')
 	{
-		if (a != 'q' && a != 'e')
-			putchar(a);
+		if (ch != 'e' && ch != 'q')
+		{
+			putchar(ch);
+		}
+		ch++;
 	}
 	putchar('\n');
 	return (0);
