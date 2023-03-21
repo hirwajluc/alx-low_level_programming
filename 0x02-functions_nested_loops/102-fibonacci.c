@@ -3,6 +3,7 @@
 /**
  * main - prints the first 50 fibronacci starting with 1 and 2
  * followed by a new line
+ * author: Hirwa
  * Return: Always 0 Success
  */
 int main(void)
