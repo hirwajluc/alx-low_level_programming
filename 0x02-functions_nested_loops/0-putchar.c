@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- *
+ * author: Hirwa
  * Return: nothing, return void
  */
 
