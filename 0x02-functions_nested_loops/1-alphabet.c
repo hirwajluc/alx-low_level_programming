@@ -2,6 +2,7 @@
 
 /**
  * print_alphabet - entry point
+ * author: Hirwa
  * Return: 0
  */
 
