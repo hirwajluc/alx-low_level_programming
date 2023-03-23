@@ -3,6 +3,7 @@
 /**
  * _isdigit - checks for digits
  * @c: parameter
+ * author: Hirwa
  * Return: 0 or 1
  */
 
