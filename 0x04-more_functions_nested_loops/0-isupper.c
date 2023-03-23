@@ -3,6 +3,7 @@
 /**
  * _isupper - checks uppercase
  * @c: parameter
+ * author: Hirwa
  * Return: 0 if sucessful
  */
 
